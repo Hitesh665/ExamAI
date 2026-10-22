@@ -1,0 +1,23 @@
+[
+  {
+    "id": "usr_1792609446416_lronm",
+    "name": "hitesh singh",
+    "email": "hiteshraghuvanshi6@gmail.com",
+    "password": "$2a$10$h/n4IgM3tGIGjVz7zWkDoeJUFRHpTHMBqkPWjhiMbiY4D9lZzlMVy",
+    "createdAt": "2026-10-21T19:04:06.416Z"
+  },
+  {
+    "id": "usr_1792610456260_bkxoh",
+    "name": "Hitesh",
+    "email": "teststudent@example.com",
+    "password": "$2a$10$TjGAbzI5JFUyLu1AkJ23Bey/ZXiz6qfVazS2YAwm/HwZek726eAyC",
+    "createdAt": "2026-10-21T19:20:56.260Z"
+  },
+  {
+    "id": "usr_1792685423782_taxib",
+    "name": "PRACHI",
+    "email": "itsprachi2022@gmail.com",
+    "password": "$2a$10$luuIed2kNTQIMg3UbTK4u.mIhJvARSAXWYYLL0uu3Q3gbXFFSY/86",
+    "createdAt": "2026-10-22T16:10:23.782Z"
+  }
+]
